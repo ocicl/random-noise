@@ -1,0 +1,10 @@
+* random-noise
+
+Functions to generate various types of noise such as Perlin or Value
+noise
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/Shinmera/random-noise.git |
+| commit  | 19731eb                                          |
+| systems | random-noise                                     |
+|---------+--------------------------------------------------|
