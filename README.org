@@ -5,6 +5,6 @@ noise
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/Shinmera/random-noise.git |
-| commit  | 19731eb                                          |
+| commit  | c990b1f                                          |
 | systems | random-noise                                     |
 |---------+--------------------------------------------------|
