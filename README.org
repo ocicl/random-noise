@@ -4,7 +4,7 @@ Functions to generate various types of noise such as Perlin or Value
 noise
 
 |---------+--------------------------------------------------|
-| source  | git:https://github.com/Shinmera/random-noise.git |
-| commit  | 996d245                                          |
+| source  | git:https://codeberg.org/shinmera/random-noise.git |
+| commit  | 0000000                                          |
 | systems | random-noise                                     |
 |---------+--------------------------------------------------|
