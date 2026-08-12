@@ -7,4 +7,4 @@ noise
 | source  | git:https://codeberg.org/shinmera/random-noise.git |
 | commit  | a069aa9                                          |
 | systems | random-noise                                     |
-|---------+--------------------------------------------------|
+|---------+--------------------------------------------------| 
